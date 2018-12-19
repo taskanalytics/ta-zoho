@@ -1,0 +1,25 @@
+{
+  "name": "ta-zoho",
+  "version": "1.0.0",
+  "description": "Zoho v2 OAuth2.0 Integration",
+  "main": "cli.js",
+  "engines": {
+    "node": "^8.11"
+  },
+  "scripts": {
+    "auth": "node cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taskanalytics/ta-zoho.git"
+  },
+  "keywords": [
+    "zoho"
+  ],
+  "author": "Dave Voutila <dave@taskanalytics.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taskanalytics/ta-zoho/issues"
+  },
+  "homepage": "https://github.com/taskanalytics/ta-zoho#readme"
+}
