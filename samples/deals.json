@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "Owner": {
+        "name": "Dave Voutila",
+        "id": "2034822000000211005"
+      },
+      "GCLID": null,
+      "$currency_symbol": "$",
+      "Additional_URL_s": null,
+      "Aggregate_Field_1": null,
+      "gdriveextension__Drive_Folder_ID": null,
+      "TA_Admin_URL": null,
+      "Product_Info": [],
+      "Last_Activity_Time": null,
+      "$process_flow": false,
+      "Deal_Name": "Tesla-Deal",
+      "Currency": "USD",
+      "Ad_Network": null,
+      "Stage": "Trial Account (Setup)",
+      "id": "2034822000000429009",
+      "$approved": true,
+      "Conversion_Exported_On": null,
+      "$approval": {
+        "delegate": false,
+        "approve": false,
+        "reject": false,
+        "resubmit": false
+      },
+      "Territory": [
+        "USA"
+      ],
+      "Lost_Reason": null,
+      "Website_URL": null,
+      "Cost_per_Click": 0,
+      "Click_Type": null,
+      "Created_Time": "2019-02-20T15:10:33-05:00",
+      "License_Effective_Date": null,
+      "$editable": true,
+      "AdGroup_Name": null,
+      "License_Ending_Date": null,
+      "Ad_Click_Date": null,
+      "Days_Old": 0,
+      "Description": null,
+      "Ad": null,
+      "Campaign_Source": null,
+      "Search_Partner_Network": null,
+      "Closing_Date": "2019-02-28",
+      "Conversion_Export_Status": null,
+      "Cost_per_Conversion": 0,
+      "Lead_Conversion_Time": 49,
+      "Overall_Sales_Duration": 57,
+      "Trial_End_Date": null,
+      "Account_Name": {
+        "name": "Tesla",
+        "id": "2034822000000429001"
+      },
+      "Inactive_Days": null,
+      "gdriveextension__Drive_URL": null,
+      "Modified_Time": "2019-02-20T15:10:33-05:00",
+      "Trial_Start_Date": null,
+      "Keyword": null,
+      "Device_Type": null,
+      "Amount": 0,
+      "Next_Step": null,
+      "Probability": 35,
+      "Additional_Contacts": null,
+      "Prediction_Score": null,
+      "Contact_Name": {
+        "name": "Elon Musk",
+        "id": "2034822000000429005"
+      },
+      "Interaction_Count": null,
+      "Sales_Cycle_Duration": 8,
+      "Type": null,
+      "Ad_Campaign_Name": null,
+      "Lead_Source": null,
+      "Tag": [],
+      "Reason_for_Conversion_Failure": null,
+      "Contract_Term": "6 Month"
+    }
+  ]
+}

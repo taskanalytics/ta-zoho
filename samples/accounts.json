@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "Partner_Territory": [],
+      "Owner": {
+        "name": "Dave Voutila",
+        "id": "2034822000000211005"
+      },
+      "Description": null,
+      "$currency_symbol": "$",
+      "Additional_URL_s": null,
+      "Main_Contact": null,
+      "Account_Type": null,
+      "Rating": null,
+      "Website": null,
+      "gdriveextension__Drive_Folder_ID": null,
+      "TA_Admin_URL": null,
+      "Last_Activity_Time": "2019-02-20T15:10:33-05:00",
+      "Industry": null,
+      "Record_Image": null,
+      "$process_flow": false,
+      "Phone": null,
+      "Currency": "USD",
+      "Billing_Country": "US",
+      "Account_Name": "Tesla",
+      "id": "2034822000000429001",
+      "Account_Number": "0",
+      "Partner": null,
+      "$approved": true,
+      "gdriveextension__Drive_URL": null,
+      "$approval": {
+        "delegate": false,
+        "approve": false,
+        "reject": false,
+        "resubmit": false
+      },
+      "Modified_Time": "2019-02-20T15:10:33-05:00",
+      "Billing_Street": null,
+      "Partner_Services": [],
+      "Created_Time": "2019-02-20T15:10:33-05:00",
+      "$editable": true,
+      "Billing_Code": null,
+      "Territories": [
+        "USA"
+      ],
+      "Parent_Account": null,
+      "Billing_City": null,
+      "Billing_State": null,
+      "Tag": []
+    }
+  ]
+}
