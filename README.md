@@ -18,7 +18,7 @@ Currently expects some environment variables until these are transitioned to com
 | `ZOHO_REDIRECT_URI`  | Zoho App Redirect URI                  |     No    | `http://localhost:8888/zoho/callback`                              |
 | `ZOHO_REDIRECT_HOST` | Hostname or IP for binding http server |     No    | `localhost` (so chances are this binds to 127.0.0.1)               |
 | `ZOHO_REDIRECT_PORT` | TCP Port to bind for http server       |     No    | `8888`                                                             |
-| `SCOPE`              | Zoho API access scope to request       |     No    | `ZohoCRM.modules.Leads.CREATE` (you might want to change this)     |
+| `ZOHO_SCOPE`         | Zoho API access scope to request       |     No    | `ZohoCRM.modules.Leads.CREATE` (you might want to change this)     |
 
 If cli args end up implemented, expect `ZOHO_CLIENT_SECRET` to be passed via `stdin`.
 
